@@ -8,3 +8,5 @@ yarn dev để start dự án vite
 <!-- 1gb -->
 <!-- 1mb => 1000mb -->
 <!-- 100mb  -->
+
+// npm i yarn -g
